@@ -1,6 +1,6 @@
 *.key
 *.csr
-.ipynb_checkpoints
+.ipynb_checkpoints/
 Pipfile
 Pipfile.lock
 
